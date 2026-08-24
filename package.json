@@ -75,7 +75,7 @@
     "drizzle-kit": "^0.20.14",
     "eslint": "^8.57.0",
     "pg": "^8.11.5",
-    "postcss": "^8.4.38",
+    "postcss": "^8.5.23",
     "prettier": "^3.2.5",
     "prettier-plugin-tailwindcss": "^0.5.14",
     "tailwindcss": "^3.4.3",
